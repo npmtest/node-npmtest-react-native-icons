@@ -1,0 +1,119 @@
+<svg height="1854" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1854" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-23 11:40:10 +0000  1944844 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-23 11:40:10 +0000     1078 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-23 11:40:10 +0000     9182 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-23 11:40:10 +0000     1901 bytes  SMXIconImage.android.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-23 11:40:10 +0000     1961 bytes  SMXIconImage.ios.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-23 11:40:10 +0000     2431 bytes  SMXLoadingImage.android.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-23 11:40:10 +0000     2403 bytes  SMXLoadingImage.ios.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-23 11:40:10 +0000      438 bytes  SMXTabBarIOS.android.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-23 11:40:10 +0000      985 bytes  SMXTabBarIOS.ios.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-23 11:40:10 +0000      715 bytes  SMXTabBarIconItemIOS.android.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-23 11:40:10 +0000     2904 bytes  SMXTabBarIconItemIOS.ios.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-23 11:40:10 +0000      534 bytes  android/build.gradle</tspan>
+<tspan x="10" y="218"> 12.  2017-04-23 11:40:10 +0000     8248 bytes  android/react-native-icons.iml</tspan>
+<tspan x="10" y="234"> 13.  2017-04-23 11:40:10 +0000      124 bytes  android/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="250"> 14.  2017-04-23 11:40:10 +0000     2704 bytes  android/src/main/java/com/smixx/reactnativeicons\</tspan>
+<tspan x="10" y="266">/IconFont.java</tspan>
+<tspan x="10" y="282"> 15.  2017-04-23 11:40:10 +0000     3310 bytes  android/src/main/java/com/smixx/reactnativeicons\</tspan>
+<tspan x="10" y="298">/IconManager.java</tspan>
+<tspan x="10" y="314"> 16.  2017-04-23 11:40:10 +0000     1685 bytes  android/src/main/java/com/smixx/reactnativeicons\</tspan>
+<tspan x="10" y="330">/ReactNativeIcons.java</tspan>
+<tspan x="10" y="346"> 17.  2017-04-23 11:40:10 +0000   106260 bytes  fonts/FontAwesome.otf</tspan>
+<tspan x="10" y="362"> 18.  2017-04-23 11:40:10 +0000   103952 bytes  fonts/Material-Design-Iconic-Font.ttf</tspan>
+<tspan x="10" y="378"> 19.  2017-04-23 11:40:10 +0000    17463 bytes  fonts/fontawesome.json</tspan>
+<tspan x="10" y="394"> 20.  2017-04-23 11:40:10 +0000    56976 bytes  fonts/foundation-icons.ttf</tspan>
+<tspan x="10" y="410"> 21.  2017-04-23 11:40:10 +0000     6983 bytes  fonts/foundation.json</tspan>
+<tspan x="10" y="426"> 22.  2017-04-23 11:40:10 +0000    22222 bytes  fonts/ion.json</tspan>
+<tspan x="10" y="442"> 23.  2017-04-23 11:40:10 +0000   188724 bytes  fonts/ionicons.ttf</tspan>
+<tspan x="10" y="458"> 24.  2017-04-23 11:40:10 +0000    20696 bytes  fonts/material.json</tspan>
+<tspan x="10" y="474"> 25.  2017-04-23 11:40:10 +0000     4175 bytes  fonts/octicons.json</tspan>
+<tspan x="10" y="490"> 26.  2017-04-23 11:40:10 +0000    28992 bytes  fonts/octicons.ttf</tspan>
+<tspan x="10" y="506"> 27.  2017-04-23 11:40:10 +0000     9721 bytes  fonts/typicons.json</tspan>
+<tspan x="10" y="522"> 28.  2017-04-23 11:40:10 +0000    99920 bytes  fonts/typicons.ttf</tspan>
+<tspan x="10" y="538"> 29.  2017-04-23 11:40:10 +0000     2438 bytes  fonts/zocial.json</tspan>
+<tspan x="10" y="554"> 30.  2017-04-23 11:40:10 +0000    26004 bytes  fonts/zocial.ttf</tspan>
+<tspan x="10" y="570"> 31.  2017-04-23 11:40:10 +0000      113 bytes  index.android.js</tspan>
+<tspan x="10" y="586"> 32.  2017-04-23 11:40:10 +0000      149 bytes  index.ios.js</tspan>
+<tspan x="10" y="602"> 33.  2017-04-23 11:40:10 +0000    18922 bytes  ios/ReactNativeIcons.xcodeproj/project.pbxproj</tspan>
+<tspan x="10" y="618"> 34.  2017-04-23 11:40:10 +0000      161 bytes  ios/ReactNativeIcons.xcodeproj/project.xcworkspa\</tspan>
+<tspan x="10" y="634">ce/contents.xcworkspacedata</tspan>
+<tspan x="10" y="650"> 35.  2017-04-23 11:40:10 +0000    49371 bytes  ios/ReactNativeIcons.xcodeproj/project.xcworkspa\</tspan>
+<tspan x="10" y="666">ce/xcuserdata/corysmith.xcuserdatad/UserInterfaceState.xcuserstate</tspan>
+<tspan x="10" y="682"> 36.  2017-04-23 11:40:10 +0000      796 bytes  ios/ReactNativeIcons.xcodeproj/xcuserdata/corysm\</tspan>
+<tspan x="10" y="698">ith.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist</tspan>
+<tspan x="10" y="714"> 37.  2017-04-23 11:40:10 +0000     4276 bytes  ios/ReactNativeIcons.xcodeproj/xcuserdata/corysm\</tspan>
+<tspan x="10" y="730">ith.xcuserdatad/xcschemes/ReactNativeIcons.xcscheme</tspan>
+<tspan x="10" y="746"> 38.  2017-04-23 11:40:10 +0000     2882 bytes  ios/ReactNativeIcons.xcodeproj/xcuserdata/corysm\</tspan>
+<tspan x="10" y="762">ith.xcuserdatad/xcschemes/ReactNativeIconsResources.xcscheme</tspan>
+<tspan x="10" y="778"> 39.  2017-04-23 11:40:10 +0000      783 bytes  ios/ReactNativeIcons.xcodeproj/xcuserdata/corysm\</tspan>
+<tspan x="10" y="794">ith.xcuserdatad/xcschemes/xcschememanagement.plist</tspan>
+<tspan x="10" y="810"> 40.  2017-04-23 11:40:10 +0000      226 bytes  ios/ReactNativeIcons/FAKIconImage/FAKIconImage.h</tspan>
+<tspan x="10" y="826"> 41.  2017-04-23 11:40:10 +0000       62 bytes  ios/ReactNativeIcons/FAKIconImage/FAKIconImage.m</tspan>
+<tspan x="10" y="842"> 42.  2017-04-23 11:40:10 +0000      101 bytes  ios/ReactNativeIcons/FAKIconImage/FAKIconImageMa\</tspan>
+<tspan x="10" y="858">nager.h</tspan>
+<tspan x="10" y="874"> 43.  2017-04-23 11:40:10 +0000     3963 bytes  ios/ReactNativeIcons/FAKIconImage/FAKIconImageMa\</tspan>
+<tspan x="10" y="890">nager.m</tspan>
+<tspan x="10" y="906"> 44.  2017-04-23 11:40:10 +0000      469 bytes  ios/ReactNativeIcons/IconTabBarItem/SMXTabBar.h</tspan>
+<tspan x="10" y="922"> 45.  2017-04-23 11:40:10 +0000     3886 bytes  ios/ReactNativeIcons/IconTabBarItem/SMXTabBar.m</tspan>
+<tspan x="10" y="938"> 46.  2017-04-23 11:40:10 +0000      371 bytes  ios/ReactNativeIcons/IconTabBarItem/SMXTabBarIte\</tspan>
+<tspan x="10" y="954">m.h</tspan>
+<tspan x="10" y="970"> 47.  2017-04-23 11:40:10 +0000      226 bytes  ios/ReactNativeIcons/IconTabBarItem/SMXTabBarIte\</tspan>
+<tspan x="10" y="986">m.m</tspan>
+<tspan x="10" y="1002"> 48.  2017-04-23 11:40:10 +0000      102 bytes  ios/ReactNativeIcons/IconTabBarItem/SMXTabBarIte\</tspan>
+<tspan x="10" y="1018">mManager.h</tspan>
+<tspan x="10" y="1034"> 49.  2017-04-23 11:40:10 +0000     4406 bytes  ios/ReactNativeIcons/IconTabBarItem/SMXTabBarIte\</tspan>
+<tspan x="10" y="1050">mManager.m</tspan>
+<tspan x="10" y="1066"> 50.  2017-04-23 11:40:10 +0000       79 bytes  ios/ReactNativeIcons/IconTabBarItem/SMXTabBarMan\</tspan>
+<tspan x="10" y="1082">ager.h</tspan>
+<tspan x="10" y="1098"> 51.  2017-04-23 11:40:10 +0000      479 bytes  ios/ReactNativeIcons/IconTabBarItem/SMXTabBarMan\</tspan>
+<tspan x="10" y="1114">ager.m</tspan>
+<tspan x="10" y="1130"> 52.  2017-04-23 11:40:10 +0000    35297 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1146">KFontAwesome.h</tspan>
+<tspan x="10" y="1162"> 53.  2017-04-23 11:40:10 +0000    91386 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1178">KFontAwesome.m</tspan>
+<tspan x="10" y="1194"> 54.  2017-04-23 11:40:10 +0000    15100 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1210">KFoundationIcons.h</tspan>
+<tspan x="10" y="1226"> 55.  2017-04-23 11:40:10 +0000    41274 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1242">KFoundationIcons.m</tspan>
+<tspan x="10" y="1258"> 56.  2017-04-23 11:40:10 +0000     5006 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1274">KIcon.h</tspan>
+<tspan x="10" y="1290"> 57.  2017-04-23 11:40:10 +0000     5077 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1306">KIcon.m</tspan>
+<tspan x="10" y="1322"> 58.  2017-04-23 11:40:10 +0000    72190 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1338">KIonIcons.h</tspan>
+<tspan x="10" y="1354"> 59.  2017-04-23 11:40:10 +0000   109990 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1370">KIonIcons.m</tspan>
+<tspan x="10" y="1386"> 60.  2017-04-23 11:40:10 +0000    40212 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1402">KMaterial.h</tspan>
+<tspan x="10" y="1418"> 61.  2017-04-23 11:40:10 +0000   103374 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1434">KMaterial.m</tspan>
+<tspan x="10" y="1450"> 62.  2017-04-23 11:40:10 +0000    10938 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1466">KOcticons.h</tspan>
+<tspan x="10" y="1482"> 63.  2017-04-23 11:40:10 +0000    31808 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1498">KOcticons.m</tspan>
+<tspan x="10" y="1514"> 64.  2017-04-23 11:40:10 +0000     5137 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1530">KZocial.h</tspan>
+<tspan x="10" y="1546"> 65.  2017-04-23 11:40:10 +0000    13746 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/FA\</tspan>
+<tspan x="10" y="1562">KZocial.m</tspan>
+<tspan x="10" y="1578"> 66.  2017-04-23 11:40:10 +0000   106260 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/Fo\</tspan>
+<tspan x="10" y="1594">ntAwesome.otf</tspan>
+<tspan x="10" y="1610"> 67.  2017-04-23 11:40:10 +0000      228 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/Fo\</tspan>
+<tspan x="10" y="1626">ntAwesomeKit.h</tspan>
+<tspan x="10" y="1642"> 68.  2017-04-23 11:40:10 +0000   103952 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/Ma\</tspan>
+<tspan x="10" y="1658">terial-Design-Iconic-Font.ttf</tspan>
+<tspan x="10" y="1674"> 69.  2017-04-23 11:40:10 +0000    56976 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/fo\</tspan>
+<tspan x="10" y="1690">undation-icons.ttf</tspan>
+<tspan x="10" y="1706"> 70.  2017-04-23 11:40:10 +0000   188724 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/io\</tspan>
+<tspan x="10" y="1722">nicons.ttf</tspan>
+<tspan x="10" y="1738"> 71.  2017-04-23 11:40:10 +0000    31740 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/oc\</tspan>
+<tspan x="10" y="1754">ticons.ttf</tspan>
+<tspan x="10" y="1770"> 72.  2017-04-23 11:40:10 +0000    47988 bytes  ios/ReactNativeIcons/Libraries/FontAwesomeKit/zo\</tspan>
+<tspan x="10" y="1786">cial-regular-webfont.ttf</tspan>
+<tspan x="10" y="1802"> 73.  2017-04-23 11:40:10 +0000      934 bytes  package.json</tspan>
+<tspan x="10" y="1818"> 74.  2017-04-23 11:40:10 +0000      408 bytes  react-native-icons.podspec</tspan>
+<tspan x="10" y="1834"> 75.  2017-04-23 11:40:10 +0000      147 bytes  shim-assert.js</tspan>
+</text>
+</svg>
